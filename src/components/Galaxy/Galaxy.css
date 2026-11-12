@@ -1,0 +1,56 @@
+#galaxy {
+  margin-bottom: 30px;
+  .galaxy {
+    background-image: url("/bg1.png");
+    width: 726px;
+    width: 100%;
+    height: 359.2422180175781px;
+    top: 34px;
+    background-color: #f9f9f9;
+    width: 1335px;
+    height: 627.9336242675781px;
+    top: 2637px;
+    left: 53px;
+    border-radius: 28px;
+    border-width: 1px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+    background-size: 1050px ;
+    max-width: 1280px;
+    .galaxy-content {
+      text-align: start;
+      h2 {
+        font-weight: 400;
+        font-size: 30.73px;
+        text-transform: uppercase;
+        margin-top: 100px;
+      }
+      h1 {
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 64.21px;
+        line-height: 100%;
+        vertical-align: middle;
+        margin-top: 10px;
+      }
+      h3 {
+        font-family: Poppins;
+        font-weight: 300;
+        font-size: 25.2px;
+        margin-top: 20px;
+      }
+      width: 726px;
+      height: 359.2422180175781px;
+      top: 34px;
+      img {
+        width: 342.3143310546875px;
+        height: 1257px;
+        top: 2582px;
+        left: 920px;
+      }
+    }
+  }
+}

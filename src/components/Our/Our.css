@@ -1,0 +1,74 @@
+#our {
+  .our {
+    .our-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 30px;
+      h3 {
+        font-weight: 500;
+        font-style: Medium;
+        font-size: 41.67px;
+        color: black;
+        line-height: 100%;
+        letter-spacing: 0%;
+        vertical-align: middle;
+      }
+      p {
+        font-weight: 400;
+        color: black;
+        font-size: 27.75px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        vertical-align: middle;
+        text-decoration: underline;
+        text-decoration-style: solid;
+        text-decoration-thickness: 0%;
+        cursor: pointer;
+      }
+    }
+    .our-cards {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      align-items: center;
+      .our-card {
+        margin-bottom: 40px;
+        h4 {
+          margin: 15px 0;
+          font-weight: 600;
+          font-size: 26.69px;
+          color: black;
+          line-height: 100%;
+          letter-spacing: 0%;
+          vertical-align: middle;
+        }
+        .info {
+          display: flex;
+          justify-content: space-between;
+          h5 {
+            font-weight: 300;
+            font-style: Light;
+            font-size: 23.04px;
+            color: #5e5e5e;
+            line-height: 100%;
+            letter-spacing: 0%;
+            vertical-align: middle;
+          }
+          h6 {
+            font-weight: 300;
+            font-style: Light;
+            font-size: 16.02px;
+            line-height: 100%;
+            letter-spacing: 0%;
+            vertical-align: middle;
+            text-decoration: underline;
+            text-decoration-style: solid;
+            color: #5e5e5e;
+            text-decoration-thickness: 0%;
+          }
+        }
+      }
+    }
+  }
+}
